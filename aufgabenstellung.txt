@@ -1,0 +1,13 @@
+Level 1
+Die Arbeitszeiten der (momentan noch 3) Mitarbeiten zu den jeweiligen Tagen aus der .CSV-Datei auslesen und auswerten. Die Anwendung soll nur Consolenlogs ausgeben.
+Bsp:
+"12.12.2018 Oliver -25 minuten"
+ 
+ 
+Level 2
+Mittels Consolen Eingabe soll nur für einen Mitarbeiter die Arbeitszeit und die Gleitzeit ausgegeben werden.
+"
+12.12.2018 Oliver -25 Minuten
+13.12.2018 Oliver +30 Minuten
+--------------------------------------
+Gesamt Gleitzeit +5 Minuten"# uebungsprojekt" 
